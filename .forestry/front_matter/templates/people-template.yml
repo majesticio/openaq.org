@@ -32,3 +32,5 @@ fields:
 - type: textarea
   name: quote
   label: quote
+pages:
+- content/about/people/dob-bobert.md
