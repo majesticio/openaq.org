@@ -1,0 +1,34 @@
+---
+label: people template
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: name
+  label: name
+- type: text
+  name: position
+  label: position
+- type: text
+  name: group
+  label: group
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: email
+  label: email
+- type: text
+  name: linkedin
+  label: linkedin
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: quote
+  label: quote
