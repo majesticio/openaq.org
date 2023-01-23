@@ -1,0 +1,16 @@
+---
+label: initiatives template
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: list
+  name: topics
+  label: topics
+- type: file
+  name: featured_image
+  label: featured_image
